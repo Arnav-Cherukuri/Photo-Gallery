@@ -1,0 +1,17 @@
+#myCarousel{
+    background-color: blue;
+    height: 400px;
+    width: 1400px;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+#img{
+    margin-top: 100px;
+    width: 500px;
+    height: 200px;
+}
+p{
+    font-size: 30
+}
